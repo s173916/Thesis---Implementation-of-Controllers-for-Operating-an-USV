@@ -1,0 +1,2 @@
+catamaran
+-DCATKIN_DEVEL_PREFIX=/home/local/ws/devel -DCMAKE_INSTALL_PREFIX=/home/local/ws/install -G Unix Makefiles
