@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paths>
+  <path>.</path>
+  <path>documentation</path>
+  <path>documentation\Configuration guide for ShipX and Wamit vessels models</path>
+  <path>documentation\FDI Identification of seakeeping models from frequency response data</path>
+  <path>documentation\Ship Roll Motion Control</path>
+  <path>documentation\Tutoiral on modelling and simulation of marine craft</path>
+  <path>documentation\Tutoiral on modelling and simulation of marine craft\Powerpoint</path>
+  <path>FDI</path>
+  <path>GNC</path>
+  <path>HYDRO</path>
+  <path>HYDRO\gdf</path>
+  <path>HYDRO\utils</path>
+  <path>HYDRO\utils\plotting</path>
+  <path>HYDRO\utils\readdata</path>
+  <path>HYDRO\vessels_shipx</path>
+  <path>HYDRO\vessels_shipx\s175</path>
+  <path>HYDRO\vessels_shipx\supply</path>
+  <path>HYDRO\vessels_wamit</path>
+  <path>HYDRO\vessels_wamit\fpso</path>
+  <path>HYDRO\vessels_wamit\semisub</path>
+  <path>HYDRO\vessels_wamit\tanker</path>
+  <path>mssDemos</path>
+  <path>mssExamples</path>
+  <path>SIMULINK</path>
+  <path>SIMULINK\figs</path>
+  <path>SIMULINK\init</path>
+  <path>SIMULINK\mssSimulinkDemos</path>
+  <path>SIMULINK\mssWamitShipXTemplates</path>
+  <path>VESSELS</path>
+  <path>VESSELS\navalVesselRAOs</path>
+  <path>VESSELS\rigModel</path>
+  <path>VESSELS\shipModels</path>
+  <path>VESSELS\shipModels\misc</path>
+</paths>

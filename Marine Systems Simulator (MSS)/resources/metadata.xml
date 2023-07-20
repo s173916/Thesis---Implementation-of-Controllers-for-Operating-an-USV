@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>9df081c9-aa05-49ba-b62e-56e033e75e76</identifier>
+  <displayType>Collection</displayType>
+  <translatedDisplayType>
+    <en_US>Collection</en_US>
+    <es_ES>Collection</es_ES>
+    <es_MX>Collection</es_MX>
+    <ja_JP>コレクション</ja_JP>
+    <ko_KR>컬렉션</ko_KR>
+    <zh_CN>集合</zh_CN>
+  </translatedDisplayType>
+  <name>Marine Systems Simulator (MSS)</name>
+  <author>Thor I. Fossen</author>
+  <version>1.2</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/9df081c9-aa05-49ba-b62e-56e033e75e76/d5fca7dd-b45f-4ac7-a31b-e4b3183dfb1a/packages/zip?src=addons_ml_desktop_install&amp;profile_id=11868867&amp;license=870549&amp;release_family=R2021a</downloadUrl>
+  <licenseUrl>https://addons.mathworks.com/registry/v1/9df081c9-aa05-49ba-b62e-56e033e75e76/1.2.0.0/-/license</licenseUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/images/default_screenshot.jpg</previewImageUrl>
+  <releaseNotesUrl>https://www.mathworks.com/add-ons/9df081c9-aa05-49ba-b62e-56e033e75e76/d5fca7dd-b45f-4ac7-a31b-e4b3183dfb1a/releaseNotes</releaseNotesUrl>
+  <installationFolder>Collections</installationFolder>
+</addOn>
