@@ -1,0 +1,3 @@
+/home/frederik/Documents/speciale/c_code/build/CMakeFiles/USV.dir
+/home/frederik/Documents/speciale/c_code/build/CMakeFiles/edit_cache.dir
+/home/frederik/Documents/speciale/c_code/build/CMakeFiles/rebuild_cache.dir
